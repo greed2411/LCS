@@ -7,4 +7,6 @@ This algorithm, printing the Longest Common Subsequence problem falls under Dyna
 
 Random DNA sequences can be generated [here](http://www.faculty.ucr.edu/~mmaduro/random.htm)
 
+Screenshot:
+
 ![repl python27 screenshot](/../others/Capture.JPG?raw=true "Optional Title")
