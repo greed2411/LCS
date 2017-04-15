@@ -49,9 +49,9 @@ def lcs(X, Y, m, n):
         else:
             j-=1
  
-    print "LCS of " + X + " and " + Y + " is " + "".join(lcs) 
+    print "\n\nLCS of " + X + " and " + Y + " is " + "".join(lcs) + " \nand length of it is : " + str(len("".join(lcs))-1)
  
-s1,s2=input("Enter the First Sequence").upper(),input("Enter the Querying Sequence").upper()
+s1,s2=input("Enter the First Sequence\n").upper(),input("\nEnter the Querying Sequence\n").upper()
 
 if (verify(s1) and verify(s2)) and (len(s1)>=len(s2)):
     print(s1,s2)
