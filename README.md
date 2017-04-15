@@ -9,4 +9,4 @@ Random DNA sequences can be generated [here](http://www.faculty.ucr.edu/~mmaduro
 
 Screenshot:
 
-![repl python27 screenshot](/../others/Capture.JPG?raw=true "Optional Title")
+![repl python27 screenshot](/../others/Capture.JPG?raw=true "LCS")
