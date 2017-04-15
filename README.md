@@ -3,6 +3,6 @@ The [longest common subsequence (LCS) problem](https://en.wikipedia.org/wiki/Lon
 
 Use Python 2.7 (while entering the string, enter them in quotes :P)
 
-This algorithm, printing the Longest Common Subsequence problem falls under Dynammic programming and has been implemented two compare two DNA strands and get the lenghthiest subsequence of all the genereated subsequences and print it's lenght. It also focuses on avoiding the overlapping i.e., avoid calculating the subsequence that has already been generated.
+This algorithm, printing the Longest Common Subsequence problem falls under Dynammic programming and has been implemented two compare two DNA strands and get the lenghthiest subsequence of all the genereated subsequences and print it's length. It also focuses on avoiding the overlapping i.e., avoid calculating the subsequence that has already been generated.
 
 Random DNA sequences can be generated [here](http://www.faculty.ucr.edu/~mmaduro/random.htm)
