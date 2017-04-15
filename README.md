@@ -1,5 +1,5 @@
 # LCS
-The longest common subsequence (LCS) problem is the problem of finding the longest subsequence common to all sequences in a set of sequences (often just two sequences). It differs from problems of finding common substrings: unlike substrings, subsequences are not required to occupy consecutive positions within the original sequences. The longest common subsequence problem is a classic computer science problem, and has applications in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics).
+The [longest common subsequence (LCS) problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem) is the problem of finding the longest subsequence common to all sequences in a set of sequences (often just two sequences). It differs from problems of finding common substrings: unlike substrings, subsequences are not required to occupy consecutive positions within the original sequences. The longest common subsequence problem is a classic computer science problem, and has applications in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics).
 
 Use Python 2.7 (while entering the string, enter them in quotes :P)
 
