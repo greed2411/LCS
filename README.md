@@ -11,7 +11,7 @@ Screenshot:
 
 ![repl python27 screenshot](/../others/Capture.JPG?raw=true "LCS")
 
-The above is a screenshot of py2 versionof the code.
+The above is a screenshot of py2 version of the code.
 
 For python3 version , execute the try.py
 
